@@ -125,6 +125,12 @@ When making a reservation, the system asks for:
 
 ![Check-Out](screenshots/checkout.png)
 
+## UML Class Diagram
+
+The UML class diagram illustrates the main classes, interfaces, inheritance, and relationships used in the Hotel Reservation System.
+
+[View UML Class Diagram](docs/uml-class-diagram.pdf)
+
 ## How to Run
 
 1. Download or clone the repository.

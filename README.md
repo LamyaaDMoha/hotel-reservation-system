@@ -70,6 +70,9 @@ Hotel-Reservation-System/
 │   ├── active-booking.png
 │   └── checkout.png
 │
+├── docs/
+│   └── uml-class-diagram.pdf
+│
 ├── README.md
 └── .gitignore
 ```
